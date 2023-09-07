@@ -1,4 +1,4 @@
-h1, h2, h3, h4 {
+h1, h2, h3, h4, li{
     color: #48ff00;
     font-size: 40px;
     font-family: fantasy;
@@ -11,3 +11,20 @@ h1, h2, h3, h4 {
   img {height: 50px;
   width: 70px;
   }
+.selected{
+  color: tomato;
+}
+.header{
+  background-color: aquamarine;
+  color: blue;
+  height: 90px;
+}
+li {
+  list-style: none;
+  float: left;
+}
+.header-logo {
+  float: left;
+  font-size: 36px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
